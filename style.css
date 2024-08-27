@@ -22,6 +22,9 @@ body {
 .col_nav{
     background-color: bisque !important;
 }
+.logo{
+  width: 170px !important;
+}
 /* nav end */
 * {
     margin: 0;
